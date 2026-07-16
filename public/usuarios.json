@@ -4,7 +4,7 @@
         "email": "alan.silva@unip.edu.br",
         "id": "G49EFC5",
         "senha": "993925319Aa",
-        "imagem": "/public/GOMES.jpeg"
+        "imagem": "/GOMES.jpeg"
     },
 
     {
@@ -12,7 +12,7 @@
         "email": "giovanni.gomes@unip.edu.br",
         "id": "G49EFC5",
         "senha": "1234567890",
-        "imagem": "/public/GOMES.jpeg"
+        "imagem": "/GOMES.jpeg"
     },
 
     {
@@ -20,7 +20,7 @@
         "email": "isabela.silva@unip.edu.br",
         "id": "G51EJF8",
         "senha": "1234567890",
-        "imagem": "/public/AYSA.jpeg"
+        "imagem": "/AYSA.jpeg"
     },
 
     {
@@ -28,7 +28,7 @@
         "email": "diego.monis@unip.edu.br",
         "id": "G49EFH6",
         "senha": "1234567890",
-        "imagem": "/public/DIOGO.jpeg"
+        "imagem": "/DIOGO.jpeg"
     },
 
     {
@@ -36,7 +36,7 @@
         "email": "@unip.edu.br",
         "id": "",
         "senha": "",
-        "imagem": "/public/GOMES.jpeg"
+        "imagem": "/GOMES.jpeg"
     },
 
     {
@@ -44,6 +44,6 @@
         "email": "@unip.edu.br",
         "id": "",
         "senha": "",
-        "imagem": "/public/GOMES.jpeg"
+        "imagem": "/GOMES.jpeg"
     }
 ]

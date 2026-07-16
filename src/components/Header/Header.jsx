@@ -1,4 +1,5 @@
 import { useAuth } from "../AuthProvider/AuthProvider";
+import logoUnip from "../Login/logo-unip.svg"; 
 
 const Header = () => {
     const { usuario, logout } = useAuth();
@@ -9,7 +10,7 @@ const Header = () => {
                 
                 {/* Coluna 1: Logo e Título */}
                 <div className="flex items-center gap-4">
-                    <img src="/Imagens/logo-unip.svg" alt="Logo" className="h-6 md:h-8 w-30" />
+                    <img src={logoUnip} alt="Logo" className="h-6 md:h-8 w-30" />
                     {/* Caso o logo não carregue aqui, deixei um fallback textual, mas você pode remover */}
                     {/* <div className="text-yellow-400 font-extrabold text-4xl italic tracking-tighter">UNIP</div> */}
                     <h1 className="text-lg md:text-xl font-bold whitespace-nowrap">Área do(a) aluno(a)</h1>
