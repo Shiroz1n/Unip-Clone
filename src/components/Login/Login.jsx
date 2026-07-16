@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../AuthProvider/AuthProvider";
-import usuarios from "/home/alan/repos/Unip-Clone/usuarios.json"
+import usuarios from "./usuarios.json"
 
 const Login = () => {
     const { login } = useAuth();
