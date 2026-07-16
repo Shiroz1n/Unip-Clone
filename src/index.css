@@ -1,31 +1,28 @@
-@import "tailwindcss";
-
-/* 1. Importação de fontes (Rubik e Raleway como você mencionou antes) */
+/* 1. O IMPORT DO GOOGLE FONTS DEVE SER SEMPRE O PRIMEIRO */
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Rubik:wght@400;500;700&display=swap');
 
+/* 2. Depois vem o Tailwind */
+@import "tailwindcss";
+
+/* 3. Agora o resto do código */
 @theme {
-  /* 2. Paleta de Cores da UNIP */
     --font-sans: 'Rubik', sans-serif;
     --color-unip-blue: #3292f9;
     --color-unip-bg: #f1f1f1;
 }
 
-/* 3. Reset do Body */
 body {
     @apply bg-white text-slate-800 font-sans antialiased min-h-screen;
 }
 
-/* 4. Reset básico para imagens */
 img {
     @apply max-w-full h-auto object-cover;
 }
 
-/* 5. Estilização Global de Links (Remove sublinhado e mantém cor padrão) */
 a {
     @apply no-underline text-inherit transition-colors duration-200;
 }
 
-/* 6. Barra de Rolagem (Estilo moderno) */
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -36,7 +33,6 @@ a {
     @apply bg-gray-300 rounded-full hover:bg-unip-blue;
 }
 
-/* 7. Classe de Container para centralizar o conteúdo das páginas */
 .main-container {
     @apply max-w-7xl mx-auto px-4 py-6;
 }
