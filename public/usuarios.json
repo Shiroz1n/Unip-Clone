@@ -1,7 +1,7 @@
 [
     {
         "nome": "Alan Inhuma",
-        "email": "alan.silva@unip.edu.br",
+        "email": "alan.silva@aluno.unip.br",
         "id": "G49EFC5",
         "senha": "993925319Aa",
         "imagem": "/GOMES.jpeg"
@@ -9,7 +9,7 @@
 
     {
         "nome": "Giovanni Santos Gomes",
-        "email": "giovanni.gomes@unip.edu.br",
+        "email": "giovanni.gomes@aluno.unip.br",
         "id": "G49EFC5",
         "senha": "1234567890",
         "imagem": "/GOMES.jpeg"
@@ -17,7 +17,7 @@
 
     {
         "nome": "Isabela da Silva",
-        "email": "isabela.silva@unip.edu.br",
+        "email": "isabela.silva@aluno.unip.br",
         "id": "G51EJF8",
         "senha": "1234567890",
         "imagem": "/AYSA.jpeg"
@@ -25,7 +25,7 @@
 
     {
         "nome": "Diogo Monis",
-        "email": "diego.monis@unip.edu.br",
+        "email": "diego.monis@aluno.unip.br",
         "id": "G49EFH6",
         "senha": "1234567890",
         "imagem": "/DIOGO.jpeg"
@@ -33,7 +33,7 @@
 
     {
         "nome": "",
-        "email": "@unip.edu.br",
+        "email": "@aluno.unip.br",
         "id": "",
         "senha": "",
         "imagem": "/GOMES.jpeg"
@@ -41,7 +41,7 @@
 
     {
         "nome": "",
-        "email": "@unip.edu.br",
+        "email": "@aluno.unip.br",
         "id": "",
         "senha": "",
         "imagem": "/GOMES.jpeg"
