@@ -40,7 +40,7 @@ const Login = () => {
         <div className="min-h-screen flex flex-col items-center pt-20 bg-[url('/Imagens/header_01.png')] bg-cover bg-center bg-no-repeat">
             
             {/* Logo */}
-            <img src="/Imagens/logo-unip.svg" alt="Logo UNIP" className="mb-4 w-48" />
+            <img src="./logo-unip.svg" alt="Logo UNIP" className="mb-4 w-48" />
 
             {/* Caixa de login */}
             <div className=" p-8 w-full max-w-sm shadow-lg">
